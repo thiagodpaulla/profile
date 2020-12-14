@@ -1,5 +1,5 @@
 
-[![thiagodpaulla stats](https://github-readme-stats.vercel.app/api/wakatime?username=thiagodpaulla)](https://github.com/thiagodpaulla/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodpaulla&layout=compact)](https://github.com/thiagodpaulla/github-readme-stats)
 
