@@ -8,7 +8,7 @@ Hey, I'm Thiago D Paulla! 👋
 
 [![thiagodpaulla github stats](https://github-readme-stats.vercel.app/api?username=thiagodpaulla)](https://github.com/thiagodpaulla/github-readme-stats)
 
-<tr>
+ <tr>	  <tr>
     <td align="center" width="96">	    <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">	      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />	        <img src=".github/img/html5.svg" width="48" height="48" alt="HTML" />
@@ -38,4 +38,4 @@ Hey, I'm Thiago D Paulla! 👋
         <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="48" height="48" alt="Git" />	        <img src=".github/img/git.svg" width="48" height="48" alt="Git" />
       </a>	      </a>
       <span>Git</span>	      <span>Git</span>
-    </td>	    </td>
+    </td>
